@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20839" started-at="2016-09-30T09:00:44Z" finished-at="2016-09-30T09:01:05Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20839" started-at="2016-09-30T09:00:44Z" finished-at="2016-09-30T09:01:05Z">
+      <class name="testNG.gmailTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testNG.gmailTest@36d64342]" name="beforeTest" is-config="true" duration-ms="6271" started-at="2016-09-30T16:00:44Z" finished-at="2016-09-30T16:00:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:testNG.gmailTest@36d64342]" name="f" duration-ms="13711" started-at="2016-09-30T16:00:50Z" finished-at="2016-09-30T16:01:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testNG.gmailTest@36d64342]" name="afterTest" is-config="true" duration-ms="834" started-at="2016-09-30T16:01:04Z" finished-at="2016-09-30T16:01:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testNG.gmailTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
